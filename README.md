@@ -21,13 +21,12 @@
 
 ### 👩‍💻 About me
 
-Frontend developer with 6 years of experience building scalable, accessible and high-performance interfaces. Currently working with **Angular 16/18** (Signals, Standalone Components, OnPush, Lazy Loading) and co-founder of **[ALB Seven](https://albseven.com)**, a web development and digital creative agency.
+Front-End / Full-Stack Engineer with 11 years of experience building scalable UI architectures, React and Angular applications, and backend APIs with Node.js, NestJS, and Express.
+Hands-on with AWS-based AI Engineering/AIOps and mentoring front-end teams through standards, code review, and design systems.
 
-Passionate about UI architecture, developer experience and bridging design and code.
-
-- 🌎 Open to international remote roles (USD / EUR) and Brazilian PJ contracts
-- 🧩 Design systems, WCAG accessibility and clean component architecture
-- 🎯 Currently sharpening: Next.js, advanced RxJS and AI-assisted workflows
+- 🌎 Open to international remote roles (USD / EUR)
+- 🧩 System architecture, Design Patterns, Clean Code & SOLID principles
+- 🎯 Currently sharpening: AI Tools and AI/MLOps
 
 ---
 
@@ -49,12 +48,17 @@ Passionate about UI architecture, developer experience and bridging design and c
 
 **Backend**
 
-
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=black)
 
 **Testing & Tools**
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&labelColor=black)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white&labelColor=black)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white&labelColor=black)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white&labelColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
@@ -66,13 +70,14 @@ Passionate about UI architecture, developer experience and bridging design and c
 
 **Currently:** Senior Software Developer @ **Lean Tech**
 
-**Previously:** Accountfy · Banco BS2 · TOTVS · MJV · Kula Jobs
+**Previously:** GFT · Banco BS2 · JDC · Kula · Bume.io · ePrimeCare · Plannix
 
 ---
 
 ### 🎓 Education
 
 **Master's Degree in AI Engineering and AIOps** · **UNIPDS** · 2027
+
 **Bachelor's Degree in Game Design Technolofy** · **FUMEC** · 2018
 
 ---
