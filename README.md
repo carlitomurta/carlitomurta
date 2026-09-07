@@ -1,7 +1,7 @@
 <h1 align="center">Carlito Murta</h1>
 
 <p align="center">
-  <a href="https://github.com/carlitomurta"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8353F7&width=435&lines=Senior+Software+Engineer;AI+Engineer;AI+%2F+ML+Ops" alt="Typing SVG" /></a>
+  <a href="https://github.com/carlitomurta"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8353F7&center=true&width=435&lines=Senior+Software+Engineer;AI+Engineer;AI+%2F+ML+Ops" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
