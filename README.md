@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/carlitomurta">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=620&lines=Senior+Frontend+Developer;Angular+%C2%B7+React+%C2%B7+TypeScript;UI+architecture%2C+DX+and+accessibility" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/demo/?color=8353F7&lines=Senior+Software+Engineer;AI+Engineer;AI+%2F+ML+Ops" alt="Typing SVG" />
   </a>
 </p>
 
